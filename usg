@@ -1,5 +1,5 @@
 {
-	"_comment1": "Replace 'eth0' with your USG's LAN interface and '192.168.0.105' with your Pi-hole's IP address",
+	"_comment1": "Replace 'eth0' with your USG's LAN interface and '192.168.0.105' with your Pi-hole's IP address and nano /usr/lib/unifi/data/sites/<site name>/config.gateway.json",
 	"service": {
 		"nat": {
 			"rule": {
